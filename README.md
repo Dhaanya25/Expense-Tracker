@@ -1,1 +1,2 @@
 # Expense-Tracker
+# Track My Pocket - Expense Tracker A Java-based expense tracker developed for college students to manage daily spending efficiently. ## Features - User login and registration - Expense tracking - Category-wise expense management - Search and filtering - Real-time expense calculation ## Technologies Used - Java - Java Swing - File Handling ## Project Type Academic Team Project (P2BL)
